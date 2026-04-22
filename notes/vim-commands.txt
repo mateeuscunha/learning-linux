@@ -1,0 +1,8 @@
+:w - salva
+:wq - salva e sai
+yy - copia a linha inteira 
+dd - recorta a linha inteira
+p - cola o texto copiado/recortado na linha de baixo
+P - cola o texto copiado/recortado na linha de cima
+I - entra em modo de inserção no início da linha
+A - entra em modo de inserção no final da linha
