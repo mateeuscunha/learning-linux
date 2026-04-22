@@ -6,3 +6,33 @@ p - cola o texto copiado/recortado na linha de baixo
 P - cola o texto copiado/recortado na linha de cima
 I - entra em modo de inserção no início da linha
 A - entra em modo de inserção no final da linha
+
+o - entra em modo de inseção na linha de baixo
+O - entra em modo de inserção na linha de cima
+gg - vai pro início do arquivo
+G - vai pro final do arquivo
+0 - coloca o cursor no início da linha (sem entrar em modo de inserção)
+$ - coloca o cursor no final da linha (sem entrar em modo de inserção)
+H - coloca o cursor na primeira linha da tela
+M - coloca o cursor no meio da tela
+L - coloca o cursor na última linha da tela
+zz - centraliza na tela a linha que você está
+
+:%s/palavra1/palavra2/g - substitui "palavra1" por "palavra2" em todo o seu programa
+/ - procura um texto no arquivo (case sensitive)
+/\c - procura um texto no arquivo (case insensitive)
+n - vai para a próxima ocorrência encontrada do texto pesquisado
+u - undo
+^r - redo
+} - vai para a próxima linha em branco
+{ - vai para a linha em branco anterior
+
+cc - recorta o texto da linha inteira e entra em modo de inserção nessa linha
+cw - recorta uma palvra e entra em modo de inserção
+ciw - recorta uma palavra (quando o cursor está dentro dela) e entra em modo inserção
+ci" - recorta tudo que está dentro de um "" e entra em modo de inserção
+ci( - recorta tudo que está dentro de um () e entra em modo de inserção
+C - recorta tudo que está na frente do cursor e entra em modo de inserção
+D - deleta tudo que está na frente do cursor
+dw - deleta uma palavra
+diw - deleta uma palavra (quando o cursor está dentro dela) 
