@@ -1,0 +1,28 @@
+	TIPOS DE REDES
+Classificação por: modelo computacional, abrangência e topologia.
+	
+	----------------------------
+
+ Quanto ao modelo computacional
+
+Ponto a ponto: Não tem um servidor bem definido. Todo mundo pode ser cliente e pode ser servidor de alguma coisa. Não tem nenhum administrador para gerenciar os pontos.
+
+Cliente servidor: É a rede com um servidor definido.
+
+	----------------------------
+ 
+ Quanto à abrangência
+
+PAN - Personal Area Network (até 10m)
+LAN - Local Area Network (até 100m)
+CAN - Campus Area Network (até 1km)
+MAN - Metropolitan Area Network (10km)
+WAN - Wide Area Network (100km) (internet entra aqui)
+
+	----------------------------
+
+ Por topologia
+
+Topologia física: Malha, Estrela, Anel e Barramento
+
+Topologia lógica: Ethernet, Token Ring, Token Bus
