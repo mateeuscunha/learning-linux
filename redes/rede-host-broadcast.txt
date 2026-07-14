@@ -1,0 +1,20 @@
+REDE - a própria rede
+HOST - endereços que posso atribuir dentro da rede
+BROADCAST - se eu quiser falar com todos daquela rede
+
+	EX: 192.168.1.10 é o IP
+
+ REDE
+Flamboyant
+192.168.1.0 - porque é classe C, então os três primeiros classificam a rede
+
+ HOST
+Casas
+192.168.1.1 até 192.168.1.254
+
+ BROADCAST
+Portaria/Recepção
+É sempre o último número possível na rede:
+192.168.1.255
+
+

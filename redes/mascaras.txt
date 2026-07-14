@@ -1,0 +1,7 @@
+A - 255.0.0.0
+B - 255.255.0.0
+C - 255.255.255.0
+
+A - rede.host.host.host
+B - rede.rede.host.host
+C - rede.rede.rede.host

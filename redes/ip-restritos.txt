@@ -1,0 +1,8 @@
+  IPs Restritos e Privados
+10.0.0.0 /8
+172.16.0.0 /12
+192.168.0.0 /16
+
+127.0.0.0 //loop back - corresponde a você mesmo
+169.254.0.0 //APIPA - quando não acha servidor na rede
+
