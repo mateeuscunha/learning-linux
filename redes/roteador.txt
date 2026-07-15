@@ -1,0 +1,2 @@
+  CONFIGURANDO ROTEADOR
+Conectar o cabo LAN no computador: comando ping, tracert, ipconfig
